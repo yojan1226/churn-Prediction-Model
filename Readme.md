@@ -1,5 +1,4 @@
 🧠 Churn Prediction with Sentiment Analysis
-
 📘 Introduction
 
 In the highly competitive telecom sector, retaining customers is a top priority as customer churn significantly impacts profitability and growth.
@@ -37,6 +36,18 @@ Visualization	Matplotlib, Seaborn
 Deployment	Flask / Streamlit
 Cloud / Infrastructure	AWS EC2, Docker
 Version Control	Git & GitHub
+⚙️ Software Prerequisites
+
+Before running or developing this project, ensure the following software tools are installed on your system:
+
+No.	Software	Version	Description
+1️⃣	Apache Tomcat	8.0.47	Web server to deploy and manage Java-based web applications.
+2️⃣	Eclipse IDE	Latest	Integrated Development Environment for Java development.
+3️⃣	JDK	8u151 (Windows x86)	Java Development Kit for compiling and running Java applications.
+4️⃣	WEKA	Latest	Machine learning software for data mining and algorithm evaluation.
+
+💡 Tip: Ensure environment variables (like JAVA_HOME) are properly configured before deploying or testing the model.
+
 🚀 How to Run
 # 1️⃣ Clone the repository
 git clone https://github.com/yojan1226/Chrun-prediction-project.git
@@ -50,10 +61,8 @@ python app.py
 
 📊 Expected Output
 
-Prediction whether a customer is likely to churn or stay.
+Predict whether a customer is likely to churn or stay.
 
-Sentiment analysis visualization (positive / negative / neutral).
+Visualize sentiment analysis (Positive / Negative / Neutral).
 
-Model performance metrics (Accuracy, Precision, Recall, F1-score).
-
-  <img src="your-image.jpg" alt="Objective illustration"><img width="1024" height="1536" alt="ChatGPT Image Oct 31, 2025, 05_55_42 PM" src="https://github.com/user-attachments/assets/d387a4df-2f97-423b-9090-4405c46624e0" />
+Evaluate model performance using Accuracy, Precision, Recall, and F1-score.

@@ -1,4 +1,5 @@
 🧠 Churn Prediction with Sentiment Analysis
+
 📘 Introduction
 
 In the highly competitive telecom sector, retaining customers is a top priority as customer churn significantly impacts profitability and growth.
@@ -54,3 +55,5 @@ Prediction whether a customer is likely to churn or stay.
 Sentiment analysis visualization (positive / negative / neutral).
 
 Model performance metrics (Accuracy, Precision, Recall, F1-score).
+
+  <img src="your-image.jpg" alt="Objective illustration"><img width="1024" height="1536" alt="ChatGPT Image Oct 31, 2025, 05_55_42 PM" src="https://github.com/user-attachments/assets/d387a4df-2f97-423b-9090-4405c46624e0" />
